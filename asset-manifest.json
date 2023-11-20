@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-catalog/static/css/main.eeceba64.css",
+    "main.js": "/food-catalog/static/js/main.adedce0a.js",
+    "index.html": "/food-catalog/index.html",
+    "main.eeceba64.css.map": "/food-catalog/static/css/main.eeceba64.css.map",
+    "main.adedce0a.js.map": "/food-catalog/static/js/main.adedce0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeceba64.css",
+    "static/js/main.adedce0a.js"
+  ]
+}
